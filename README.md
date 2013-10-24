@@ -21,4 +21,4 @@ mikutterで投稿ボックスにAmazon.co.jpの欲しい物リストのURLを自
 
 - このプラグインは@maruTA_bis5によって生み出されました。
 
-- もしよろしければhttp://www.amazon.co.jp/registry/wishlist/336MW5X4JBSKも合わせてご覧ください。
+- もしよろしければ http://www.amazon.co.jp/registry/wishlist/336MW5X4JBSK も合わせてご覧ください。
