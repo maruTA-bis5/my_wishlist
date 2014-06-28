@@ -21,6 +21,6 @@ Plugin.create(:my_wishlist) do
   settings "wishlist" do
     input('欲しい物リストのID', :my_wishlist_url)
       tooltip('欲しい物リストの画面で「このリストをシェアする」をクリックし、固定URLの~/wishlist/以降をコピペしてください')
-    boolean('postboxに入力されたテキストの前に挿入する場合はチェック', :my_wishlist_insert_before)
+    boolean('入力したテキストの前に挿入する', :my_wishlist_insert_before)
   end
 end
